@@ -1,0 +1,1 @@
+# SQL-Data-Analysis-project-on-U.S.A.-school-shootings-dataset
